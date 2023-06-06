@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Ümit</h1>
-<h3 align="center">I am a game developer and 3d modeler.</h3>
+<h3>I am a game developer and 3d modeler.</h3>
 
 - 👨‍💻 I’m currently learning **Unity and Blender**
 
