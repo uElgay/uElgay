@@ -1,7 +1,8 @@
 <h1 align="center">Hi 👋, I'm Ümit</h1>
-<h3>I am a game developer and 3d modeler.</h3>
 
-- 👨‍💻 I’m currently learning **Unity and Blender**
+- 👨‍💻 I am a game developer and 3d modeler.
+
+- 📝 I’m currently learning **Unity and Blender**
 
 - 🤝 I am looking for **teammates where I can focus on game development and continue to improve myself.**
 
