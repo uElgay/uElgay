@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Ümit</h1>
+<h1 align="center">Hi, I'm Ümit</h1>
 
 - 👨‍💻 I am a game developer and 3d modeler.
 
