@@ -12,7 +12,10 @@
 <a href="https://instagram.com/uned.72" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="uned.72" height="30" width="40" /></a>
 </p>
 
-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=uelgay&label=Profile%20views&color=0e75b6&style=flat" alt="uelgay" /> </p> -
+<!---
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=uelgay&label=Profile%20views&color=0e75b6&style=flat" alt="uelgay" /> </p>
+-->
+
 
 <h3 align="left">Languages and Tools:</h3>
 
